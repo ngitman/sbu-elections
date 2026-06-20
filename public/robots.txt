@@ -2,5 +2,4 @@
 User-agent: *
 Disallow:
 
-# TODO: replace with your real production URL after deploy.
-Sitemap: https://sb-usg-elections.netlify.app/sitemap.xml
+Sitemap: https://sbu-elections.netlify.app/sitemap.xml

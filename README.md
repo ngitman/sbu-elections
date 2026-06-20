@@ -33,14 +33,12 @@ drop in a new JSON file and add the year to `dataAvailability` in
 
 ## Deploy (Netlify)
 
-1. Push this repo to GitHub and create a new Netlify site from it.
-   Build command `npm run build`, publish directory `dist`
-   (already set in `netlify.toml`). SPA routing fallback is configured too.
-2. Note the production URL Netlify assigns (e.g. `your-site.netlify.app`).
-3. **Find-and-replace** the placeholder `https://sb-usg-elections.netlify.app`
-   with that real URL in:
-   - `index.html` (canonical + og:url)
-   - `public/sitemap.xml`
-   - `public/robots.txt`
-4. (Optional, recommended) In Google Search Console, add the site and submit
-   `/sitemap.xml`.
+Deployed at **https://sbu-elections.netlify.app/** via Netlify (auto-builds on
+push to `main`). Build command `npm run build`, publish directory `dist`, and the
+SPA routing fallback are all configured in `netlify.toml`.
+
+The production URL is referenced in `index.html` (canonical + og:url),
+`public/sitemap.xml`, and `public/robots.txt`. Update those if the domain changes.
+
+(Optional, recommended) In Google Search Console, add the site and submit
+`/sitemap.xml`.
