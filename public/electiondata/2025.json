@@ -1,0 +1,453 @@
+{
+    "Metadata": {
+        "year": 2025,
+        "parties": [
+            {
+                "name": "Rise",
+                "color": "#033dfc"
+            },
+            {
+                "name": "Pulse-Forward",
+                "color": "#fc0303"
+            },
+            {
+                "name": "Unaffiliated",
+                "color": "#c9c9c9"
+            },
+            {
+                "name": "No Confidence",
+                "color": "#262626"
+            }
+        ]
+    },
+    "President": [
+        {
+            "name": "Sarah Elbourady",
+            "votes": 1443,
+            "party": "Rise",
+            "incumbent": false
+        },
+        {
+            "name": "James Gill",
+            "votes": 922,
+            "party": "Pulse-Forward",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 440,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "Executive Vice President": [
+        {
+            "name": "Russell Erfan",
+            "votes": 1757,
+            "party": "Rise",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 1040,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "Treasurer": [
+        {
+            "name": "Bonnie Wong",
+            "votes": 1176,
+            "party": "Rise",
+            "incumbent": true
+        },
+        {
+            "name": "Tina Li",
+            "votes": 1069,
+            "party": "Pulse-Forward",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 531,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "VP of Communcations": [
+        {
+            "votes": 838,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Laiba Rajput"
+        },
+        {
+            "votes": 774,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Madison Jakaj"
+        },
+        {
+            "votes": 515,
+            "party": "",
+            "incumbent": false,
+            "name": "Shanell Rollon"
+        },
+        {
+            "votes": 628,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of Student Life": [
+        {
+            "votes": 1128,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Sebastian Adams"
+        },
+        {
+            "votes": 1085,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Victoria Komenkowski"
+        },
+        {
+            "votes": 554,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of University Affairs": [
+        {
+            "votes": 1589,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Ece Naz Durali"
+        },
+        {
+            "votes": 1175,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of Clubs and Organizations": [
+        {
+            "votes": 885,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Taher Motiwala"
+        },
+        {
+            "votes": 804,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Antonios Manolas"
+        },
+        {
+            "votes": 381,
+            "party": "",
+            "incumbent": false,
+            "name": "Shriram Hegde"
+        },
+        {
+            "votes": 366,
+            "party": "",
+            "incumbent": false,
+            "name": "Makala Saldenha-Raye"
+        },
+        {
+            "votes": 246,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "Senators": [
+        {
+            "votes": 541,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Osasikianua Amene"
+        },
+        {
+            "votes": 533,
+            "party": "Rise",
+            "incumbent": true,
+            "name": "Kaylen James"
+        },
+        {
+            "votes": 531,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Soua Arai"
+        },
+        {
+            "votes": 517,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Kylie Barkei"
+        },
+        {
+            "votes": 513,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Minal Iftikhar"
+        },
+        {
+            "votes": 494,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Isabella Menmel"
+        },
+        {
+            "votes": 478,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Maryam Elfeky"
+        },
+        {
+            "votes": 465,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Gatik Yadav"
+        },
+        {
+            "votes": 460,
+            "party": "Rise",
+            "incumbent": true,
+            "name": "Lauren Fanter"
+        },
+        {
+            "votes": 456,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Maisha Rahman"
+        },
+        {
+            "votes": 455,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Faiyaz Islam"
+        },
+        {
+            "votes": 445,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Samaira Pawa"
+        },
+        {
+            "votes": 443,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Almas Ahmad"
+        },
+        {
+            "votes": 426,
+            "party": "Rise",
+            "incumbent": true,
+            "name": "Sophia Dimont"
+        },
+        {
+            "votes": 421,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Ruqayan Mahmud"
+        },
+        {
+            "votes": 304,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        },
+        {
+            "votes": 415,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Garrett Simpson"
+        },
+        {
+            "votes": 409,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Owen Larson"
+        },
+        {
+            "votes": 409,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Lucas Puccia"
+        },
+        {
+            "votes": 408,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Cooper Smith"
+        },
+        {
+            "votes": 400,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Justin Nakagawa"
+        },
+        {
+            "votes": 400,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Heath Goldsmith"
+        },
+        {
+            "votes": 396,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Carly Dunn"
+        },
+        {
+            "votes": 394,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Hudson DiNapoli"
+        },
+        {
+            "votes": 393,
+            "party": "",
+            "incumbent": false,
+            "name": "Doorva Garg"
+        },
+        {
+            "votes": 391,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Brett Kitograd"
+        },
+        {
+            "votes": 383,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Yadira Suquilema-Lema"
+        },
+        {
+            "votes": 379,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Emelio Harris"
+        },
+        {
+            "votes": 374,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Andrew Martin"
+        },
+        {
+            "votes": 373,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Rich Chen"
+        },
+        {
+            "votes": 371,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Jade Carr"
+        },
+        {
+            "votes": 367,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Matthew E. Barnes"
+        },
+        {
+            "votes": 393,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Ananya Madhira"
+        },
+        {
+            "votes": 391,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Steven Reganato"
+        },
+        {
+            "votes": 383,
+            "party": "Pulse-Forward",
+            "incumbent": false,
+            "name": "Anthony Marra"
+        },
+        {
+            "votes": 371,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Ammar Gondal"
+        },
+        {
+            "votes": 367,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Ethan Rothburd"
+        },
+        {
+            "votes": 371,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Azeem Siddiqui"
+        },
+        {
+            "votes": 367,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Uotam Heeralall"
+        },
+        {
+            "votes": 304,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Md Azad"
+        },
+        {
+            "votes": 300,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Aden Basir"
+        },
+        {
+            "votes": 285,
+            "party": "",
+            "incumbent": false,
+            "name": "Amal S. Parakkadan"
+        },
+        {
+            "votes": 276,
+            "party": "",
+            "incumbent": false,
+            "name": "Christina Wong"
+        },
+        {
+            "votes": 252,
+            "party": "",
+            "incumbent": false,
+            "name": "Beth Portnoy"
+        },
+        {
+            "votes": 243,
+            "party": "",
+            "incumbent": false,
+            "name": "Zurabi Kochiashvili"
+        },
+        {
+            "votes": 210,
+            "party": "",
+            "incumbent": false,
+            "name": "Raymond Lizzol"
+        },
+        {
+            "votes": 201,
+            "party": "Rise",
+            "incumbent": false,
+            "name": "Safa N. A. Faridi"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "Metadata": {
+        "year": 2026,
+        "parties": [
+            {
+                "name": "Ace",
+                "color": "#b50000"
+            },
+            {
+                "name": "United-mc2",
+                "color": "#0011ff"
+            },
+            {
+                "name": "NewGen",
+                "color": "#1bb500"
+            },
+            {
+                "name": "Spark",
+                "color": "#ffcc00"
+            },
+            {
+                "name": "Unaffiliated",
+                "color": "#c9c9c9"
+            },
+            {
+                "name": "No Confidence",
+                "color": "#262626"
+            }
+        ]
+    },
+    "President": [
+        {
+            "name": "Russell Erfan",
+            "votes": 2204,
+            "party": "Ace",
+            "incumbent": false
+        },
+        {
+            "name": "Minal Iftikhar",
+            "votes": 1439,
+            "party": "United-mc2",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 732,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "Executive Vice President": [
+        {
+            "name": "Rishi Vs",
+            "votes": 1213,
+            "party": "United-mc2",
+            "incumbent": false
+        },
+        {
+            "name": "Gatik Yadav",
+            "votes": 2323,
+            "party": "Ace",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 839,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "Treasurer": [
+        {
+            "name": "Isabella Mehmel",
+            "votes": 3513,
+            "party": "Ace",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 862,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "VP of Communcations": [
+        {
+            "votes": 2318,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Samaira Pawa"
+        },
+        {
+            "votes": 1276,
+            "party": "Spark",
+            "incumbent": false,
+            "name": "Yadira Suquilema-Lema"
+        },
+        {
+            "votes": 781,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of Student Life": [
+        {
+            "votes": 2846,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Alleyna Charoo"
+        },
+        {
+            "votes": 693,
+            "party": "",
+            "incumbent": false,
+            "name": "Syed Tahsin"
+        },
+        {
+            "votes": 836,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of Clubs and Organizations": [
+        {
+            "votes": 3354,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Taher Motiwala"
+        },
+        {
+            "votes": 1021,
+            "party": "NC",
+            "incumbent": true,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of University Affairs": [
+        {
+            "votes": 868,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Carly Dunn"
+        },
+        {
+            "votes": 1724,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Ece Naz Durali"
+        },
+        {
+            "votes": 180,
+            "party": "NewGen",
+            "incumbent": false,
+            "name": "Adam Haque"
+        },
+        {
+            "votes": 1075,
+            "party": "Spark",
+            "incumbent": false,
+            "name": "Kaylen James"
+        },
+        {
+            "votes": 528,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "Chief Justice": [
+        {
+            "votes": 3417,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Keshari Tulsyan"
+        },
+        {
+            "votes": 958,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "Student Activity Fee Referendum": [
+        {
+            "votes": 2403,
+            "party": "",
+            "incumbent": false,
+            "name": "Mandatory"
+        },
+        {
+            "votes": 1972,
+            "party": "",
+            "incumbent": false,
+            "name": "Voluntary"
+        }
+    ],
+    "USG's ability to adjust SAF Referendum": [
+        {
+            "votes": 3588,
+            "party": "",
+            "incumbent": false,
+            "name": "Support"
+        },
+        {
+            "votes": 787,
+            "party": "",
+            "incumbent": false,
+            "name": "Oppose"
+        }
+    ],
+    "Senators": [
+        {
+            "votes": 1127,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Ceania Rei Gonzales"
+        },
+        {
+            "votes": 268,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Mabsura Sabaha"
+        },
+        {
+            "votes": 578,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Mila Sadeghi"
+        },
+        {
+            "votes": 1108,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Garrett Simpson"
+        },
+        {
+            "votes": 1389,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Sardara Singh"
+        },
+        {
+            "votes": 411,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Vincent Sozzani"
+        },
+        {
+            "votes": 559,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Fryda Torres"
+        },
+        {
+            "votes": 105,
+            "party": "",
+            "incumbent": false,
+            "name": "Anthony Vernillo"
+        },
+        {
+            "votes": 631,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Trinity Woo"
+        },
+        {
+            "votes": 365,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Michaela Lee"
+        },
+        {
+            "votes": 362,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "John Lenis"
+        },
+        {
+            "votes": 1491,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Kaitlyn Loo"
+        },
+        {
+            "votes": 1031,
+            "party": "Ace",
+            "incumbent": true,
+            "name": "Ruqayah Mahmud"
+        },
+        {
+            "votes": 1164,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Derek Nguyen"
+        },
+        {
+            "votes": 424,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Mateo Ordonez"
+        },
+        {
+            "votes": 555,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Aria Pajooheshgar"
+        },
+        {
+            "votes": 1229,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Darren Palmer"
+        },
+        {
+            "votes": 597,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Mia Perez"
+        },
+        {
+            "votes": 445,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Areej Zaidi"
+        },
+        {
+            "votes": 1204,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Nusrat Zakir"
+        },
+        {
+            "votes": 215,
+            "party": "",
+            "incumbent": false,
+            "name": "Helen Zhu"
+        },
+        {
+            "votes": 412,
+            "party": "NewGen",
+            "incumbent": false,
+            "name": "Emelio Harris"
+        },
+        {
+            "votes": 339,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Moiz Hassan"
+        },
+        {
+            "votes": 448,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Mikaeel Iqbal"
+        },
+        {
+            "votes": 1027,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Faiyaz Islam"
+        },
+        {
+            "votes": 1371,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Mayfreici Martinez Jimenez"
+        },
+        {
+            "votes": 436,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Tanvi Kamat"
+        },
+        {
+            "votes": 1386,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Tui Katoanga"
+        },
+        {
+            "votes": 939,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Noah Kim"
+        },
+        {
+            "votes": 0,
+            "party": "",
+            "incumbent": false,
+            "name": "Zurabi Kochiashvili"
+        },
+        {
+            "votes": 1172,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Rich Chen"
+        },
+        {
+            "votes": 769,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Genesis Dixon"
+        },
+        {
+            "votes": 974,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Walid Dudin"
+        },
+        {
+            "votes": 998,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Pre Ferri"
+        },
+        {
+            "votes": 207,
+            "party": "",
+            "incumbent": false,
+            "name": "Michael Foglia"
+        },
+        {
+            "votes": 585,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Omama Gilani"
+        },
+        {
+            "votes": 451,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Siddhant Godha"
+        },
+        {
+            "votes": 992,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Heath Duncan Goldsmith"
+        },
+        {
+            "votes": 461,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Sania Haq"
+        },
+        {
+            "votes": 823,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Sophia Adolphe"
+        },
+        {
+            "votes": 1251,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Almas Ahmad"
+        },
+        {
+            "votes": 748,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Sandra Akinnubi"
+        },
+        {
+            "votes": 193,
+            "party": "",
+            "incumbent": false,
+            "name": "Raiyan Arnob"
+        },
+        {
+            "votes": 373,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Sri Atragada"
+        },
+        {
+            "votes": 362,
+            "party": "United-mc2",
+            "incumbent": false,
+            "name": "Ehan Azad"
+        },
+        {
+            "votes": 1163,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Casey Boyle"
+        },
+        {
+            "votes": 1493,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Tyrese Brown"
+        },
+        {
+            "votes": 1028,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Zoe Case"
+        },
+        {
+            "votes": 459,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ]
+}

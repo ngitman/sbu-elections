@@ -1,0 +1,6 @@
+# Allow indexing of this standalone election site.
+User-agent: *
+Disallow:
+
+# TODO: replace with your real production URL after deploy.
+Sitemap: https://sb-usg-elections.netlify.app/sitemap.xml

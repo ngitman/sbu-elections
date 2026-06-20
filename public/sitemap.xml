@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: replace https://sb-usg-elections.netlify.app with your real URL after deploy. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sb-usg-elections.netlify.app/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sb-usg-elections.netlify.app/2024</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sb-usg-elections.netlify.app/2025</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sb-usg-elections.netlify.app/2026</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

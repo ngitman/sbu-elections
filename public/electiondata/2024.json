@@ -1,0 +1,417 @@
+{
+    "Metadata": {
+        "year": 2024,
+        "parties": [
+            {
+                "name": "Dream",
+                "color": "#033dfc"
+            },
+            {
+                "name": "Ace",
+                "color": "#fc0303"
+            },
+            {
+                "name": "Pizza",
+                "color": "#fcc603"
+            },
+            {
+                "name": "Coastal",
+                "color": "#17fbff"
+            },
+            {
+                "name": "Unaffiliated",
+                "color": "#c9c9c9"
+            },
+            {
+                "name": "No Confidence",
+                "color": "#262626"
+            }
+        ]
+    },
+    "President": [
+        {
+            "name": "Nishta Boghra",
+            "votes": 1270,
+            "party": "",
+            "incumbent": false
+        },
+        {
+            "name": "Pranav Jagannath",
+            "votes": 726,
+            "party": "Pizza",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 503,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "Executive Vice President": [
+        {
+            "name": "Ray Chen",
+            "votes": 901,
+            "party": "Ace",
+            "incumbent": false
+        },
+        {
+            "name": "Adam Pareek",
+            "votes": 656,
+            "party": "",
+            "incumbent": false
+        },
+        {
+            "name": "Luca Rallis",
+            "votes": 490,
+            "party": "Dream",
+            "incumbent": false
+        },
+        {
+            "name": "No Confidence",
+            "votes": 450,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "Treasurer": [
+        {
+            "name": "Bonnie Wong",
+            "votes": 1114,
+            "party": "",
+            "incumbent": false
+        },
+        {
+            "name": "Amitesh Reddy Akiti",
+            "votes": 806,
+            "party": "",
+            "incumbent": true
+        },
+        {
+            "name": "No Confidence",
+            "votes": 565,
+            "party": "NC",
+            "incumbent": false
+        }
+    ],
+    "VP of Communcations": [
+        {
+            "votes": 1008,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Lamia Rathi"
+        },
+        {
+            "votes": 920,
+            "party": "",
+            "incumbent": true,
+            "name": "Arnav Sawant"
+        },
+        {
+            "votes": 553,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of Student Life": [
+        {
+            "votes": 1136,
+            "party": "",
+            "incumbent": false,
+            "name": "Tanisa Rahman"
+        },
+        {
+            "votes": 871,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Andrew Candio"
+        },
+        {
+            "votes": 484,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of University Affairs": [
+        {
+            "votes": 1037,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Sarah Elbourady"
+        },
+        {
+            "votes": 600,
+            "party": "",
+            "incumbent": false,
+            "name": "Ajay Singh"
+        },
+        {
+            "votes": 576,
+            "party": "",
+            "incumbent": false,
+            "name": "Aaryn Anand"
+        },
+        {
+            "votes": 259,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "VP of Clubs and Organizations": [
+        {
+            "votes": 1126,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Aryan Sharma"
+        },
+        {
+            "votes": 756,
+            "party": "",
+            "incumbent": false,
+            "name": "Tasha Yashrub"
+        },
+        {
+            "votes": 593,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "Chief Justice": [
+        {
+            "votes": 628,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "David Safo"
+        },
+        {
+            "votes": 555,
+            "party": "",
+            "incumbent": false,
+            "name": "James Gill"
+        },
+        {
+            "votes": 407,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Christian Jean-Pierre"
+        },
+        {
+            "votes": 206,
+            "party": "Pizza",
+            "incumbent": false,
+            "name": "Hugh E. Osorio"
+        },
+        {
+            "votes": 134,
+            "party": "",
+            "incumbent": false,
+            "name": "Antonios Manolas"
+        },
+        {
+            "votes": 552,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        }
+    ],
+    "Referendum": [
+        {
+            "votes": 1395,
+            "party": "",
+            "incumbent": false,
+            "name": "Mandatory"
+        },
+        {
+            "votes": 1158,
+            "party": "",
+            "incumbent": false,
+            "name": "Voluntary"
+        }
+    ],
+    "Senators": [
+        {
+            "votes": 674,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Charlie Brown"
+        },
+        {
+            "votes": 603,
+            "party": "",
+            "incumbent": false,
+            "name": "Russell Erfan"
+        },
+        {
+            "votes": 584,
+            "party": "Dream",
+            "incumbent": true,
+            "name": "Peter Joyce"
+        },
+        {
+            "votes": 564,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Laiba Rajput"
+        },
+        {
+            "votes": 549,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Rayan Iqbal"
+        },
+        {
+            "votes": 535,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Aman Mistry"
+        },
+        {
+            "votes": 520,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Ennio Tuna"
+        },
+        {
+            "votes": 517,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Shriram Hegde"
+        },
+        {
+            "votes": 513,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Brodi Bajrami"
+        },
+        {
+            "votes": 509,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Ana McMahon"
+        },
+        {
+            "votes": 501,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Kaylen James"
+        },
+        {
+            "votes": 498,
+            "party": "Ace",
+            "incumbent": false,
+            "name": "Anood Cheema"
+        },
+        {
+            "votes": 491,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Talha Uddin"
+        },
+        {
+            "votes": 475,
+            "party": "",
+            "incumbent": false,
+            "name": "Christopher Chan"
+        },
+        {
+            "votes": 430,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Ece Naz Durali"
+        },
+        {
+            "votes": 425,
+            "party": "NC",
+            "incumbent": false,
+            "name": "No Confidence"
+        },
+        {
+            "votes": 412,
+            "party": "Coastal",
+            "incumbent": false,
+            "name": "Rachel Smith"
+        },
+        {
+            "votes": 385,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Lauren Fanter"
+        },
+        {
+            "votes": 373,
+            "party": "Pizza",
+            "incumbent": false,
+            "name": "Nicole Thomson"
+        },
+        {
+            "votes": 370,
+            "party": "Pizza",
+            "incumbent": false,
+            "name": "Andy Lin"
+        },
+        {
+            "votes": 359,
+            "party": "Pizza",
+            "incumbent": false,
+            "name": "Faizan Sheikh"
+        },
+        {
+            "votes": 355,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Adam French"
+        },
+        {
+            "votes": 354,
+            "party": "",
+            "incumbent": false,
+            "name": "Mysha Rahman"
+        },
+        {
+            "votes": 348,
+            "party": "Pizza",
+            "incumbent": false,
+            "name": "Pheonix Stutz"
+        },
+        {
+            "votes": 323,
+            "party": "",
+            "incumbent": false,
+            "name": "Luciana Ganshaw"
+        },
+        {
+            "votes": 314,
+            "party": "",
+            "incumbent": false,
+            "name": "Hafiz Ibrahim Tariq"
+        },
+        {
+            "votes": 306,
+            "party": "",
+            "incumbent": false,
+            "name": "Brian Chen"
+        },
+        {
+            "votes": 304,
+            "party": "Coastal",
+            "incumbent": true,
+            "name": "Leon Verkhovsky"
+        },
+        {
+            "votes": 304,
+            "party": "Dream",
+            "incumbent": false,
+            "name": "Keshari Tulsyan"
+        },
+        {
+            "votes": 287,
+            "party": "",
+            "incumbent": false,
+            "name": "Arjita Das"
+        }
+    ]
+}
